@@ -1,0 +1,21 @@
+NIGERIAN HOUSING DATA CLEANING SUMMARY
+==========================================
+Original records: 24326
+Exact duplicate records removed: 10438
+Records with missing/non-positive/unparsed prices removed: 0
+Cleaned records: 13888
+Columns retained: 8
+
+Missing values after cleaning:
+state            0
+town             0
+property_type    0
+bedrooms         0
+bathrooms        0
+toilets          0
+parking_space    0
+price_naira      0
+
+IMPORTANT: Review listing type, currency, and price period
+before training. This script does not distinguish sale
+prices from rental prices or convert rental periods.

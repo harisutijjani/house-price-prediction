@@ -1,0 +1,101 @@
+property_id,state,city,property_type,bedrooms,bathrooms,land_size_sqm,house_age_years,condition,price_naira
+DEMO-001,Lagos,Lekki,Terrace House,3,5,131,28,Good,44416358.67
+DEMO-002,Kaduna,Kaduna North,Terrace House,5,4,538,5,Fair,26445292.02
+DEMO-003,Kaduna,Kaduna North,Bungalow,5,4,432,33,Fair,17866491.36
+DEMO-004,Abuja,Kubwa,Detached Duplex,6,1,866,33,Good,80182383.86
+DEMO-005,Lagos,Ikeja,Terrace House,1,5,473,36,Good,43282155.61
+DEMO-006,Oyo,Ibadan,Detached Duplex,3,1,569,6,Good,43098739.6
+DEMO-007,Rivers,Port Harcourt,Terrace House,3,2,911,15,Fair,44640643.17
+DEMO-008,Oyo,Ibadan,Detached Duplex,5,3,364,9,New,54964628.36
+DEMO-009,Rivers,Port Harcourt,Bungalow,4,4,142,12,Fair,23319502.62
+DEMO-010,Abuja,Kubwa,Terrace House,6,2,277,27,Good,38755095.98
+DEMO-011,Oyo,Ibadan,Detached Duplex,5,4,792,27,New,72408512.41
+DEMO-012,Abuja,Gwarinpa,Terrace House,4,3,85,5,Good,39626031.08
+DEMO-013,Abuja,Kubwa,Terrace House,6,3,125,31,Good,38101631.73
+DEMO-014,Kaduna,Kaduna North,Bungalow,5,2,623,1,Good,27735341.03
+DEMO-015,Rivers,Port Harcourt,Detached Duplex,6,5,82,9,Good,51051521.02
+DEMO-016,Oyo,Ibadan,Detached Duplex,3,4,170,22,Good,30567646.51
+DEMO-017,Rivers,Port Harcourt,Bungalow,3,5,355,6,Good,29722977.91
+DEMO-018,Lagos,Lekki,Detached Duplex,5,3,731,6,Good,130333300.76
+DEMO-019,Rivers,Port Harcourt,Detached Duplex,3,3,208,15,Good,39550555.4
+DEMO-020,Kano,Nassarawa,Bungalow,6,1,375,4,Good,29205072.68
+DEMO-021,Abuja,Gwarinpa,Terrace House,3,2,776,39,Good,68149552.55
+DEMO-022,Abuja,Gwarinpa,Terrace House,5,2,125,3,Good,53486249.96
+DEMO-023,Lagos,Ikeja,Bungalow,5,2,819,23,Good,55830045.52
+DEMO-024,Abuja,Kubwa,Terrace House,3,4,680,17,Fair,38454349.93
+DEMO-025,Lagos,Ikeja,Bungalow,4,1,770,17,Good,48661531.99
+DEMO-026,Lagos,Ikeja,Bungalow,4,1,694,4,Good,53726637.01
+DEMO-027,Oyo,Ibadan,Detached Duplex,6,3,475,14,Fair,41065169.28
+DEMO-028,Abuja,Gwarinpa,Detached Duplex,3,3,494,32,Fair,50137232.42
+DEMO-029,Abuja,Gwarinpa,Bungalow,3,5,203,23,Good,35236354.37
+DEMO-030,Oyo,Ibadan,Detached Duplex,4,3,858,17,Good,51567597.23
+DEMO-031,Abuja,Gwarinpa,Terrace House,4,1,337,22,Fair,35990409.52
+DEMO-032,Kano,Nassarawa,Terrace House,2,4,744,29,Good,33179353.94
+DEMO-033,Abuja,Gwarinpa,Detached Duplex,6,2,274,1,Fair,65407029.15
+DEMO-034,Kaduna,Kaduna North,Bungalow,3,5,966,13,Fair,26606256.05
+DEMO-035,Kano,Nassarawa,Detached Duplex,6,2,992,38,Good,55214114.9
+DEMO-036,Kaduna,Kaduna North,Detached Duplex,6,5,194,36,Good,36306521.04
+DEMO-037,Oyo,Ibadan,Terrace House,1,3,496,12,Fair,20520723.58
+DEMO-038,Abuja,Gwarinpa,Bungalow,6,1,750,30,Good,60951112.67
+DEMO-039,Lagos,Lekki,Terrace House,1,1,114,34,Good,23787796.96
+DEMO-040,Kano,Nassarawa,Detached Duplex,5,5,92,8,Good,32694364.62
+DEMO-041,Rivers,Port Harcourt,Terrace House,3,3,462,5,Fair,30145047.23
+DEMO-042,Lagos,Ikeja,Detached Duplex,1,4,971,4,New,106428170.81
+DEMO-043,Rivers,Port Harcourt,Terrace House,3,1,871,32,Good,54054828.51
+DEMO-044,Lagos,Lekki,Terrace House,3,1,589,38,New,77020635.26
+DEMO-045,Rivers,Port Harcourt,Detached Duplex,4,4,348,39,Good,49112999.68
+DEMO-046,Rivers,Port Harcourt,Terrace House,4,3,190,25,New,37776603.27
+DEMO-047,Kano,Nassarawa,Detached Duplex,1,5,207,24,Good,23450329.51
+DEMO-048,Kano,Nassarawa,Terrace House,4,4,855,0,Good,40085725.34
+DEMO-049,Abuja,Gwarinpa,Terrace House,3,2,367,21,Fair,38077618.19
+DEMO-050,Rivers,Port Harcourt,Terrace House,2,3,163,15,Good,25263058.66
+DEMO-051,Lagos,Lekki,Bungalow,2,3,554,10,Fair,39434821.12
+DEMO-052,Rivers,Port Harcourt,Terrace House,6,1,888,2,Fair,56493432.69
+DEMO-053,Abuja,Gwarinpa,Detached Duplex,2,2,928,5,Fair,81554025.73
+DEMO-054,Kaduna,Kaduna North,Detached Duplex,4,1,483,4,Good,32727169.67
+DEMO-055,Kano,Nassarawa,Detached Duplex,5,1,458,24,New,49599111.14
+DEMO-056,Oyo,Ibadan,Bungalow,6,3,749,35,Good,37956440.3
+DEMO-057,Kaduna,Kaduna North,Detached Duplex,6,2,266,10,New,44712867.81
+DEMO-058,Rivers,Port Harcourt,Bungalow,1,2,930,21,New,43102488.31
+DEMO-059,Lagos,Lekki,Terrace House,3,5,705,4,New,114322838.57
+DEMO-060,Oyo,Ibadan,Terrace House,2,5,600,31,Fair,24830040.82
+DEMO-061,Kaduna,Kaduna North,Terrace House,5,3,357,21,New,35494630.48
+DEMO-062,Oyo,Ibadan,Bungalow,5,4,287,10,Good,24299326.45
+DEMO-063,Abuja,Kubwa,Bungalow,4,2,371,15,Good,30145484.12
+DEMO-064,Kano,Nassarawa,Detached Duplex,2,4,273,12,Good,29732692.82
+DEMO-065,Kano,Nassarawa,Terrace House,5,2,487,21,Good,34829625.87
+DEMO-066,Abuja,Kubwa,Bungalow,4,3,778,25,Fair,31718424.58
+DEMO-067,Lagos,Ikeja,Terrace House,4,4,528,35,Good,52680646.17
+DEMO-068,Rivers,Port Harcourt,Bungalow,4,4,602,3,New,56867240.97
+DEMO-069,Kano,Nassarawa,Detached Duplex,2,5,436,24,Fair,26914478.98
+DEMO-070,Rivers,Port Harcourt,Terrace House,1,2,736,24,Fair,29407872.56
+DEMO-071,Kaduna,Kaduna North,Bungalow,1,3,57,23,New,9796212.11
+DEMO-072,Kano,Nassarawa,Bungalow,6,4,542,20,Fair,24548324.02
+DEMO-073,Lagos,Ikeja,Terrace House,5,1,735,3,New,91187112.19
+DEMO-074,Kano,Nassarawa,Bungalow,2,4,744,13,Fair,22328952.64
+DEMO-075,Oyo,Ibadan,Terrace House,5,2,556,12,Good,35616879.24
+DEMO-076,Rivers,Port Harcourt,Detached Duplex,4,3,751,15,Fair,60432449.28
+DEMO-077,Lagos,Ikeja,Bungalow,3,4,632,19,Fair,36260109.21
+DEMO-078,Kano,Nassarawa,Terrace House,6,5,453,4,Good,41794760.7
+DEMO-079,Rivers,Port Harcourt,Bungalow,3,3,80,28,New,22212519.67
+DEMO-080,Lagos,Lekki,Bungalow,3,2,970,18,Fair,58928473.33
+DEMO-081,Lagos,Lekki,Detached Duplex,5,4,568,4,Fair,103106226.87
+DEMO-082,Lagos,Lekki,Terrace House,5,5,91,4,Good,70264037.52
+DEMO-083,Lagos,Lekki,Bungalow,4,1,697,36,Good,57045677.01
+DEMO-084,Lagos,Ikeja,Detached Duplex,6,4,818,8,New,146457190.97
+DEMO-085,Abuja,Gwarinpa,Bungalow,1,1,198,2,New,27374406.95
+DEMO-086,Rivers,Port Harcourt,Terrace House,2,5,282,2,Good,36221246.41
+DEMO-087,Rivers,Port Harcourt,Terrace House,6,4,829,34,Fair,46540497.83
+DEMO-088,Abuja,Kubwa,Detached Duplex,5,3,563,30,New,77791993.22
+DEMO-089,Lagos,Lekki,Terrace House,5,4,100,7,New,70703131.31
+DEMO-090,Lagos,Lekki,Terrace House,5,4,534,2,Fair,72507520.73
+DEMO-091,Lagos,Lekki,Detached Duplex,3,4,441,7,Fair,64567541.59
+DEMO-092,Oyo,Ibadan,Detached Duplex,4,3,566,32,Fair,35482366.77
+DEMO-093,Oyo,Ibadan,Bungalow,2,5,564,12,New,31083713.03
+DEMO-094,Kaduna,Kaduna North,Terrace House,3,5,200,6,Good,21369589.38
+DEMO-095,Kano,Nassarawa,Bungalow,1,1,975,5,Good,26374690.33
+DEMO-096,Lagos,Lekki,Detached Duplex,5,4,431,26,Good,99698717.63
+DEMO-097,Lagos,Ikeja,Bungalow,6,3,622,12,Good,54249530.87
+DEMO-098,Abuja,Gwarinpa,Bungalow,1,2,140,23,Good,20193025.95
+DEMO-099,Kaduna,Kaduna North,Terrace House,4,4,636,12,Good,35109738.57
+DEMO-100,Abuja,Gwarinpa,Bungalow,4,4,550,14,Good,54168863.33
